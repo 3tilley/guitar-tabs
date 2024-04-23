@@ -1,0 +1,147 @@
+---------------------------------------------------------------------------
+                    I’m Still Standing – Elton John
+---------------------------------------------------------------------------
+ 
+Written by: Elton John/Bernie Taupin
+From: “Too Low for Zero” (1983)
+ 
+Tabbed by: maguri
+Tuning: Standard
+ 
+Capo: 1st fret
+Play: A
+Key: Bb
+For chords in original key, transpose +1 (and "use flats").
+ 
+---------------------------------------------------------------------------
+ 
+[Intro]
+   Am               Dm/A            E/A                       Fmj7/A G6/A (Am)
+       1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e -0--|--------------1-|--------------0-|----------------|------1---3--(0)|
+B -1--|--------------1-|--------------0-|----------------|------1---3--(1)|
+G -2--|--------------2-|--------------1-|----------------|------2---4--(2)|
+D ----|----------------|----------------|----------------|----------------|
+A ----|0---0---0---0---|0---0---0---0---|0---0---0---0---|0---0---0---0---|
+E ----|----------------|----------------|----------------|----------------|
+ 
+[Chorus]
+   Am               Dm7              Em                        F/E G/E (Am)
+       1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
+e -0--|--------------1-|--------------0-|--------------0-|------1---3--(0)|
+B -1--|--------------1-|--------------0-|--------------0-|------1---3--(1)|
+G -2--|--------------2-|--------------0-|--------------0-|------2---4--(2)|
+D ----|----------------|0---0---0---0---|----------------|----------------|
+A ----|0---0---0---0---|----------------|----------------|----------------|
+E ----|----------------|----------------|0---0---0---0---|0---0---0---0---|
+ 
+---------------------------------------------------------------------------
+ 
+CHORDS
+        E-A-D-G-B-e
+Dm/A    x-0-0-2-3-1
+E/A     x-0-2-1-0-0
+Fmj7/A  x-0-3-2-1-0
+G6/A    x-0-5-4-3-0
+A64     x-0-4-2-3-0
+Amj72   x-0-6-4-5-0
+G6      3-x-0-0-0-3
+F/E     0-x-3-2-1-1
+G/E     0-x-5-4-3-3
+ 
+---------------------------------------------------------------------------
+ 
+[Intro]
+| Am | Dm/A | E/A | E/A    Fmj7/A G6/A |
+| Am | Dm/A | E/A | E/A    Fmj7/A G6/A |
+ 
+[Verse 1]
+A                     A64
+ You could never know what it's like
+     E/A                       A
+Your blood like winter freezes just like ice
+              A64                    Amj72
+And there's a cold lonely light that shines from you
+       F#m                        D/A
+You'll wind up like the wreck you hide
+            A    A64 A
+Behind that mask you use
+ 
+[Verse 2]
+A                                  A64
+ And did you think this fool could never win
+      E/A                    A
+Well, look at me, I'm comin' back again
+        A64                 Amj72
+I got a taste of love in a simple way
+           F#m                           D/A
+And if you need to know, while I'm still standing
+         A  A64  A
+You just fade away
+ 
+[Pre-Chorus]
+               Am7       Am                      Em       Em7
+Don't you know I'm still standing, better than I ever did
+               Dm7                           Fma7/A       G
+Lookin' like a true survivor, feelin' like a little kid
+Am7       Am             Em       Em7
+I'm still standing after all this time
+               Dm7                           E7
+Pickin' up the pieces of my life without you on my mind
+ 
+[Chorus]
+F/E G/E   Am        Dm7         E7
+I'm still standing, yeah, yeah, yeah
+F/E G/E   Am        Dm7        | E7 | E7    Fmj7/E G6/E |
+I'm still standing, yeah, yeah, yeah
+ 
+[Verse 3]
+A                      A64
+ Once I never could've hoped to win
+    E/A                             A
+You starting down the road, leaving me again
+    A64                              Amj72
+The threats you made were meant to cut me down
+           F#m             D/A
+And if our love was just a circus
+           A    A64 A
+You'd be a clown by now
+
+[Pre-Chorus]
+               Am7       Am                      Em       Em7
+Don't you know I'm still standing, better than I ever did
+               Dm7                           Fma7/A       G
+Lookin' like a true survivor, feelin' like a little kid
+Am7       Am             Em       Em7
+I'm still standing after all this time
+               Dm7                           E7
+Pickin' up the pieces of my life without you on my mind
+ 
+[Chorus]
+F/E G/E   Am        Dm7         E7
+I'm still standing, yeah, yeah, yeah
+F/E G/E   Am        Dm7        | E7 | E7    Fmj7/E G6/E |
+I'm still standing, yeah, yeah, yeah
+ 
+
+[Solo]
+| A | A64 | E/A | A |
+| A64 | Amj72 | F#m | D | A A64 A | A |
+
+[Pre-Chorus]
+               Am7       Am                      Em       Em7
+Don't you know I'm still standing, better than I ever did
+               Dm7                           Fma7/A       G
+Lookin' like a true survivor, feelin' like a little kid
+Am7       Am             Em       Em7
+I'm still standing after all this time
+               Dm7                           E7
+Pickin' up the pieces of my life without you on my mind
+ 
+[Chorus]
+F/E G/E   Am        Dm7         E7
+I'm still standing, yeah, yeah, yeah
+F/E G/E   Am        Dm7        | E7 | E7    Fmj7/E G6/E |
+I'm still standing, yeah, yeah, yeah
+
+(repeat and fade)
