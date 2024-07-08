@@ -4,12 +4,12 @@ Unison
 Minor 2nd   : Jaws
 Major 2nd   : Star wars Duel of Fates / Happy birthday
 Minor 3rd   : Seven nation army
-Major 3nd   : When the Saints
+Major 3nd   : When the Saints (1-3-4-5) / Kumbaya (1-3-5)
 Perfect 4th : Here comes the bride / Phantom of the Opera
 Tritone	    : Purple Haze / Simpsons
 Perfect 5th : Mando / Twinkle Twinkle / Yeah Usher (1st interval)
-Minor 6th   : Yeah Usher (2nd interval)
+Minor 6th   : Yeah Usher (2nd interval) (1-5-1-b6)
 Major 6th   : Jingle bells (Dash-ing) / Bonnie lies over the ocean
-Minor 7th   : Can't Stop RHCP
-Major 7th   : Take on Me
+Minor 7th   : Can't Stop RHCP (1-b7-8)
+Major 7th   : Take on Me (1-7-8)
 Octave
